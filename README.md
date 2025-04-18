@@ -54,8 +54,6 @@
 |Image Only Model|92.86|93.09|
 |Our Two-Stream Model|95.95|96.11|
 
-![image](https://github.com/user-attachments/assets/30848a77-d0ed-44ab-a248-5d8c8eaf6385)
-
 
 
 
